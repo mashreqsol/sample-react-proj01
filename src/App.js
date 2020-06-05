@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     Pakistan Zindabad!
+     <h1> Pakistan Zindabad!!! </h1>
     </div>
   );
 }
