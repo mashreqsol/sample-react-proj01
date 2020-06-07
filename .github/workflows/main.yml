@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
   
     - name: Deploying on surge
-      run: surge ./build http://mashreqsol-bootcamp-lec02.surge.sh/ --token  ${{secrets.SECRET_TOKEN}}
+      run: surge ./build http://mashreqsol-bootcamp-lec03-en.surge.sh/ --token  ${{secrets.SECRET_TOKEN}}
